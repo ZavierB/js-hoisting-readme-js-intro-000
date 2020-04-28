@@ -36,10 +36,10 @@ function sayMyName() {
   var name = "Kristin";
 
 
-  function sayMy() {
+  var function sayMy() {
     console.log(name);
 
-    
+
   }
   sayMy();
 }
