@@ -36,7 +36,7 @@ function sayMyName() {
   var name = "Kristin";
 
 
-  var function sayMy() {
+  function sayMy() {
     console.log(name);
 
 
